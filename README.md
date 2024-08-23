@@ -23,7 +23,7 @@ In utils directory change the value of constant file with the url of backend. If
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/softwareVirus/starface.git
+    git clone https://github.com/MehmetEmirToprak/Starface_app.git
     ```
 
 2. **Navigate into the project directory:**
